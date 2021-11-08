@@ -1,0 +1,8 @@
+- [ ] database connection
+- [ ] create account
+- [ ] authentication api
+- [ ] insert book info
+- [ ] list book info
+- [ ] comment book
+- [ ] like book info
+- [ ] register to use api
